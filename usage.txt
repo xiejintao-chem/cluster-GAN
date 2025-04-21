@@ -1,0 +1,9 @@
+1)run G36_GAN.py with proper options,i.e python G36_GAN.py --G_Nlayer=3
+edit the case number in the G36 file to swtich diff. cases
+
+ 
+2)to generate new structures:
+python3.6 A11_call_generator.py
+#switch the "case" statement for different datasets
+
+3) submit input files 
